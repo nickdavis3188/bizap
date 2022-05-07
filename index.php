@@ -63,7 +63,7 @@ body {
          
          <a href="forgotpword.php" class="forgot_pass">Forgot password</a> 
          
-         <form action="authentication.php" method="post" class="niceform">
+         <form action="/authentication.php" method="post" class="niceform">
          
          <fieldset>
                
